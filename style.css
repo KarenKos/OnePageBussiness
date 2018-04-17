@@ -361,3 +361,7 @@ footer {
 .gray {
     color: #cccccc;
 }
+
+.sm-cursor {
+    cursor: default;
+}
